@@ -1,0 +1,127 @@
+/*-------footer------------*/
+body{
+	background: #f0f2f2;
+	font-family: "Roboto",arial ,sans-serif;
+}
+/*-------------header-----------------*/
+.header{
+	background: url(../img/pic1.png);
+	background-attachment:fixed;
+	background-size: cover;
+	background-position: center;
+	text-align: center;	
+	scroll-behavior: smooth;
+
+}
+.header h1{
+	padding-top:10%;
+	color: #fff;
+	font-weight: 200;
+	word-spacing: 3px;
+	letter-spacing: 2px;
+	font-size: 30px;
+}
+/*---------------btn------------------*/
+.btn{
+	background:#F6B332;
+	padding:5px 17px;
+	border:none;
+	font-size: 13px;
+	border-radius:1px;
+}
+.btn:hover{
+	background:#F6B332;
+}
+/*--------------text-header----------------*/
+.text-header{
+	text-align:center;	
+}
+.text-header h3{
+	font-size: 30px;
+	font-weight: 300;
+	color: #515765;
+	line-height: 50px;
+	word-spacing: 7px;
+}
+.text-header p{
+	font-size: 	17px;
+	color: #8F9297;
+	line-height: 20px;
+}
+/*-------------box------------*/
+.box{
+	background: #fff;
+	text-align:center;
+	margin-top: 20%;
+}
+.box h3{
+	font-size: 15px;
+	color: #515765;
+	padding-top:5px;
+}
+.box p {
+	font-size: 12px;
+	color:#8F9297;
+	padding-top: 10px;
+	line-height: 20px; 
+}
+.box h2{
+	font-size:15px;
+	font-weight: 400;
+	color:#515765;
+	border-bottom: 1px dotted #8F9297;
+	padding-top: 10px;
+	line-height: 25px;
+}
+.btn1{
+	padding: 9px 35%;
+	margin-top:12px;
+	border-radius: 1px;
+}
+/*-------------images-------------*/
+.pic{
+	margin: -35px auto 0 auto;
+	border-radius: 	5px;
+}
+
+/*-----------grid------------*/
+.grid{
+	text-align: left;
+	padding:60px 50px 0 20px;
+
+}
+.grid h1{
+	font-weight: 400;
+	font-size: 20px;
+	margin-top:-1px;
+}
+.grid p{
+	font-weight: 400;
+	font-size: 13px;
+}
+td{
+	color:#8F9297; 
+	}
+	input{
+	padding:5px;
+}
+.x{
+	background:#F6B332 !important; 
+	color: #000 !important;
+	padding: 6px 20px; 
+	border: none;
+	border-radius: 1px;
+}
+/*-----------footer-----------*/
+.small{
+	border-top: 1px solid #8F9297;
+	text-align: center;	
+}
+.small h1{
+	font-size: 15px;
+}
+.picture{
+	padding: 5px;
+}
+
+
